@@ -1,4 +1,4 @@
-# SpellChecker
+# Trie_Spell_Checker
 Spell Checker And Word Recommender Project
 
 Spell Checker Program would suggest you a correct word for the given string input else would reply that entered word is correct.The project uses Trie datastructure to store the correct english words present in a large text along with the frequency of each word.
